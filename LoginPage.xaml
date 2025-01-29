@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yravnyai.LoginPage"
+             Title="LoginPage"
+             BackgroundColor="#001791"
+             Shell.FlyoutBehavior="Disabled"
+             Shell.NavBarIsVisible="False">
+
+    <ContentPage.Content>
+        <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="CenterAndExpand">
+            <Entry x:Name="Username" Placeholder="Логин" TextColor="Aqua" PlaceholderColor="Aquamarine"></Entry>
+            <Entry x:Name="Password" Placeholder="Пароль" TextColor="Aqua" PlaceholderColor="Aquamarine"></Entry>
+
+            <Button
+            VerticalOptions="Center"
+            Text="Вход"
+            TextColor="Bisque"
+            BorderColor="#15AF00"
+            BackgroundColor="Transparent"
+            BorderWidth="1.5"
+            CornerRadius="50"
+            Clicked="Log_in"
+            ></Button>
+            <Label HorizontalOptions="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Нет аккаунта?" TextColor="Gold"/>
+                        <Span Text="Регистрация" TextColor="Gold" FontAttributes="Italic" TextDecorations="Underline"/>
+                    </FormattedString>
+                </Label.FormattedText>
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="Button_Clicked"/>
+                </Label.GestureRecognizers>
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

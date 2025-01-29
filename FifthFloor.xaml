@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yravnyai.FifthFloor"
+             Title="Профиль"
+             BackgroundColor="#6bcffa" 
+             IconImageSource="Profil_bely.png">
+    <ScrollView>
+        <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Vertical" Margin="10,5" Padding="5,5">
+            <Frame HorizontalOptions="Center" BackgroundColor="#C3BEF0" BorderColor="Aquamarine" CornerRadius="15" WidthRequest="500" Padding="15">
+                <StackLayout>
+                    <Label Text="Профиль" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontAttributes="Bold"  FontSize="Title" />
+                    <Frame BorderColor="Aqua">
+                        <Image Source="kj8DXcMNKxKdXLWAA8ZX5gRzo953pjvh.jpeg"/>
+                    </Frame>
+                    <Label Text="ФИО:" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" FontAttributes="Bold" FontSize="22" />
+                    <!-- <MaskedEntry Mask="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" FontAttributes="Bold" FontSize="20" MaxLength="37"/>
+
+                    <Label Text="Дата рождения:" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" FontAttributes="Bold" FontSize="22" />
+                    <MaskedEntry Mask="XX.XX.XXXX" Keyboard="Numeric" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" FontAttributes="Bold" FontSize="20" />
+
+                    <Label Text="E-mail:" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" FontAttributes="Bold" FontSize="22" />
+                    <Entry  VerticalOptions="CenterAndExpand" Keyboard="Email" HorizontalOptions="FillAndExpand" FontAttributes="Bold" FontSize="20" />
+
+                    <Label Text="Телефон:" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" FontAttributes="Bold" FontSize="22" />
+                    <MaskedEntry Mask="+7 (XXX)-XXX-XX-XX" Keyboard="Numeric" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" FontAttributes="Bold" FontSize="20" /> -->
+                    <Label Text="Позиция в рейтинге:" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand" FontAttributes="Bold" FontSize="22" />
+                </StackLayout>
+            </Frame>
+            <BoxView AnchorX="200" AnchorY="200">
+
+            </BoxView>
+            <Button Text="Logout" Clicked="ToolbarItem_Clicked" Style="{StaticResource buttonStyle}">
+            </Button>
+
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

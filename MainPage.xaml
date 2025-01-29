@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yravnyai.MainPage"
+             xmlns:android="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.AndroidSpecific;assembly=Microsoft.Maui.Controls"
+             android:TabbedPage.IsSmoothScrollEnabled="true"
+             xmlns:local="clr-namespace:Yravnyai"
+             xmlns:razdel1="clr-namespace:Yravnyai.Razdel_1"
+             xmlns:razdel2="clr-namespace:Yravnyai.Razdel_2"
+             xmlns:razdel3="clr-namespace:Yravnyai.Razdel_3">
+    <!--<TabBar>
+    <ShellContent Route="LoginPage" ContentTemplate="{DataTemplate local:LoginPage}" />
+    </TabBar>
+    <ShellContent Route="AboutPage" ContentTemplate="{DataTemplate local:MainPage}"></ShellContent>
+    <local:FirstFloor/>
+    <local:SecondFloor/>
+    <local:ThirdFloor/>
+    <local:FourthFloor/>
+    <local:FifthFloor/>-->
+    <ShellContent Title="Главная страница"               
+                 ContentTemplate="{DataTemplate local:FirstFloor}" />
+        <ShellContent Title="Первый раздел"                  
+                 ContentTemplate="{DataTemplate razdel1:SecondFloor}" />
+        <ShellContent Title="Второй раздел"                  
+                 ContentTemplate="{DataTemplate razdel2:ThirdFloor}" />
+        <ShellContent Title="Третий раздел"                
+         ContentTemplate="{DataTemplate razdel3:FourthFloor}" />
+        <ShellContent  Title="Профиль"                   
+         ContentTemplate="{DataTemplate local:FifthFloor}" />
+</Shell>

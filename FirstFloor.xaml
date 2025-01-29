@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yravnyai.FirstFloor"
+             Title="Главная страница" 
+             BackgroundColor="#6bcffa"
+             IconImageSource="Novosti_belye.png">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical"  Margin="10,5" Padding="5,5">
+
+            <StackLayout >
+                <Frame BackgroundColor="#CCA8E9" BorderColor="Aquamarine" HeightRequest="800" CornerRadius="15" HasShadow="True">
+                    <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Vertical" HeightRequest="150">
+
+                        <Label Text="Перход в Гугл" HorizontalOptions="StartAndExpand" FontAttributes="Bold"  FontSize="Default" />
+                        <Button CornerRadius="10" BackgroundColor="Beige" Text="Google" Clicked="GoGoogle" TextColor="DodgerBlue"/>
+                        <Label Text="Переход в Википедию" HorizontalOptions="StartAndExpand" FontAttributes="Bold"  FontSize="Default" />
+                        <Button CornerRadius="10" BackgroundColor="Beige" Text="Wikipedia" Clicked="GoWiki" TextColor="DodgerBlue"/>
+                        <Label Text="Переход в Форкфорд" HorizontalOptions="StartAndExpand" FontAttributes="Bold"  FontSize="Default" />
+                        <Button CornerRadius="10" BackgroundColor="Beige" Text="Фоксфорд" Clicked="GoFox" TextColor="DodgerBlue"/>
+
+                    </StackLayout>
+
+                </Frame>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

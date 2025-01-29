@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yravnyai.RegistrationPage"
+             Title="RegistrationPage"
+             BackgroundColor="#838ef2"
+             Shell.FlyoutBehavior="Disabled"
+             Shell.NavBarIsVisible="False">
+    <ContentPage.Content>
+        <StackLayout Padding="100" VerticalOptions="Center">
+            <Entry x:Name="Username" Placeholder="Логин" TextColor="#0014FF" PlaceholderColor="#ffd500" ></Entry>
+            <Entry x:Name="Password" Placeholder="Пароль" TextColor="#0014FF" PlaceholderColor="#ffd500"></Entry>
+            <Entry x:Name="Email" Placeholder="Email" Keyboard="Email" TextColor="#0014FF" PlaceholderColor="#ffd500"></Entry>
+            <!--<MaskedEntry Mask="XX.XX.XXXX" Keyboard="Numeric" x:Name="Date" Placeholder="Дата рождения" TextColor="#ffd500" PlaceholderColor="#ffd500"></MaskedEntry> -->
+
+            <Button
+        VerticalOptions="Center"
+        Text="Регистрация"
+        TextColor="#0014FF"
+        BorderColor="#FFC800"
+        BackgroundColor="Bisque"
+        BorderWidth="3"
+        CornerRadius="40"
+        Clicked="To_LoginPage"
+    ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yravnyai.Razdel_2.zadanie2_8"
+             Title="zadanie2_8"
+             BackgroundColor="#fffdf5">
+    <ScrollView>
+        <StackLayout>
+            <Frame BorderColor="CornflowerBlue"  BackgroundColor="#fffdf5" >
+                <Label Text="ОВР" FontSize="40" TextColor="Black"  HorizontalOptions="CenterAndExpand" />
+            </Frame>
+            <Label Text="Вставьте коэффициенты перед элементами" FontSize="15" TextColor="DimGray"  HorizontalOptions="CenterAndExpand" />
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+
+                <Entry x:Name="koef1" Style="{StaticResource entryStyle}" ></Entry>
+                <Label Text="H&#x2082;S + " Style="{StaticResource labelStyle}"/>
+
+                <Entry x:Name="koef2" Style="{StaticResource entryStyle}"></Entry>
+                <Label Text="O&#x2082;  --> " Style="{StaticResource labelStyle}"/>
+
+                <Entry x:Name="koef3" Style="{StaticResource entryStyle}"></Entry>
+                <Label Text="H&#x2082;O + " Style="{StaticResource labelStyle}"/>
+
+                <Entry x:Name="koef4" Style="{StaticResource entryStyle}"></Entry>
+                <Label Text="SO&#x2082;" Style="{StaticResource labelStyle}"/>
+            </StackLayout>
+
+
+            <BoxView Margin="5,10,5,10">
+
+            </BoxView>
+            <ContentView>
+                <Button Text="Отправить" Style="{StaticResource InsideBtnStyle}" Clicked="ButtonClick1"></Button>
+            </ContentView>
+
+            <Label x:Name="ErrorB" Text="" FontSize="20" HorizontalOptions="CenterAndExpand"/>
+            <Button Text="Следующее задание" Style="{StaticResource InsideBtnStyle}"></Button>
+        </StackLayout>
+
+    </ScrollView>
+</ContentPage>

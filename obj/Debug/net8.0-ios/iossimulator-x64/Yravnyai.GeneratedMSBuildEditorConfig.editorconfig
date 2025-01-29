@@ -1,0 +1,355 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Yravnyai
+build_property.ProjectDir = C:\Users\Sunlitt\source\repos\Yravnyai\Yravnyai\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Controls/MyFormulaControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Controls.MyFormulaControl.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\MyFormulaControl.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\MyFormulaControl.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/FifthFloor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.FifthFloor.xaml
+build_metadata.AdditionalFiles.TargetPath = FifthFloor.xaml
+build_metadata.AdditionalFiles.RelativePath = FifthFloor.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/FirstFloor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.FirstFloor.xaml
+build_metadata.AdditionalFiles.TargetPath = FirstFloor.xaml
+build_metadata.AdditionalFiles.RelativePath = FirstFloor.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/SecondFloor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.SecondFloor.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\SecondFloor.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\SecondFloor.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_1.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_1.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_1.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_11.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_11.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_11.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_11.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_12.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_12.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_12.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_12.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_13.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_13.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_13.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_13.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_14.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_14.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_14.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_14.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_15.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_15.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_15.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_15.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_2.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_2.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_2.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_3.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_3.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_3.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_4.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_4.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_4.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_5.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_5.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_5.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_5.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_6.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_6.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_6.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_6.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_7.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_7.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_7.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_7.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 1/zadanie1_8.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_1.zadanie1_8.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 1\zadanie1_8.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 1\zadanie1_8.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/ThirdFloor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.ThirdFloor.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\ThirdFloor.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\ThirdFloor.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_1.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_1.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_1.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_10.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_10.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_10.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_10.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_11.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_11.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_11.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_11.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_12.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_12.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_12.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_12.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_13.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_13.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_13.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_13.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_14.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_14.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_14.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_14.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_15.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_15.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_15.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_15.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_2.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_2.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_2.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_3.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_3.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_3.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_4.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_4.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_4.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_5.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_5.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_5.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_5.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_6.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_6.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_6.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_6.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_7.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_7.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_7.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_7.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_8.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_8.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_8.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_8.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 2/zadanie2_9.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_2.zadanie2_9.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 2\zadanie2_9.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 2\zadanie2_9.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/FourthFloor.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.FourthFloor.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\FourthFloor.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\FourthFloor.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_1.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_1.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_1.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_10.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_10.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_10.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_10.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_11.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_11.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_11.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_11.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_12.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_12.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_12.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_12.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_13.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_13.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_13.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_13.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_14.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_14.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_14.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_14.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_15.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_15.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_15.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_15.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_2.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_2.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_2.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_3.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_3.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_3.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_4.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_4.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_4.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_5.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_5.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_5.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_5.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_6.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_6.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_6.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_6.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_7.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_7.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_7.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_7.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_8.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_8.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_8.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_8.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Razdel 3/zadanie3_9.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Razdel_3.zadanie3_9.xaml
+build_metadata.AdditionalFiles.TargetPath = Razdel 3\zadanie3_9.xaml
+build_metadata.AdditionalFiles.RelativePath = Razdel 3\zadanie3_9.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/RegistrationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.RegistrationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = RegistrationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = RegistrationPage.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Sunlitt/source/repos/Yravnyai/Yravnyai/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Yravnyai.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

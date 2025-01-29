@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "278371351054",
+    "firebase_url": "https://chemistry1-2b136-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chemistry1-2b136",
+    "storage_bucket": "chemistry1-2b136.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278371351054:android:8ce716c347d0faaa211a5f",
+        "android_client_info": {
+          "package_name": "com.companyname.himiya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhoLBasDiUIEuTEjtbgKt52NyY7_4lFc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278371351054:android:eaa9a5cb0d39ab2e211a5f",
+        "android_client_info": {
+          "package_name": "com.mycompany.chemistry1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhoLBasDiUIEuTEjtbgKt52NyY7_4lFc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
